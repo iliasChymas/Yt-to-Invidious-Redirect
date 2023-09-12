@@ -38,5 +38,9 @@ Once the extension is installed, simply click on any YouTube video link, and it 
 
 Contributions are welcome! If you have ideas for improvements or feature requests, please open an issue or submit a pull request.
 
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE). See the [LICENSE](LICENSE) file for details.
+
 
 
